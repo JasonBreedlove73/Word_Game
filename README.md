@@ -23,9 +23,6 @@ Your word: elephant ✅
 Your word: tiger ✅
 Your word: rabbit ❌ (if "tiger" ends with 'r', this is valid)
 
-yaml
-Copy
-Edit
 
 ---
 
